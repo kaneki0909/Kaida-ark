@@ -2,7 +2,7 @@
 
 A detailed walkthrough of the architecture, setup, and configurations powering **Kaida Ark**, a GPU-enabled Proxmox VE home server built for AI workloads, media streaming, and advanced containerized services.
 
-> **Note:** All IP addresses used in this documentation are fictional and for demonstration purposes only.
+
 
 ---
 
