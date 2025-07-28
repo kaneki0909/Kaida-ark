@@ -124,7 +124,7 @@ Metrics available at: `http://<proxmox-host-ip>:9221/metrics`
 - All LXC containers are **unprivileged**
 - Wi-Fi used as outbound interface via `wlp4s0`
 - `vmbr1` enables NAT for full internet access
-- Project name inspired by “Kaida,” the server identity 😄
+- Project name inspired by “Kaida,” the server identity which stands for Baby Dragon 🐉😄
 
 ---
 
