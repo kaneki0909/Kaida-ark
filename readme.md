@@ -1,6 +1,7 @@
 # Kaida Ark Home Server Documentation
 
 A detailed walkthrough of the architecture, setup, and configurations powering **Kaida Ark**, a GPU-enabled Proxmox VE home server built for AI workloads, media streaming, and advanced containerized services.
+This project repurposes an old **Acer Nitro 5** laptop into a powerful, self-hosted server — showcasing how aging consumer hardware can be transformed into a fully functional AI and virtualization powerhouse with modern monitoring, containerization, and GPU acceleration.
 
 
 
